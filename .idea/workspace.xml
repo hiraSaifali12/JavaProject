@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2337688-121c-41bb-b36e-ea17a027e644" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/vehicles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learningJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/linearSearch/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/linearSearch/SecondSmallerAndSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/linearSearch/SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/twoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/linkedList/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/linkedList/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/linkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/pattern/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/pattern/b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/animals/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/dataAbstraction/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/dataAbstraction/InterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/dataAbstraction/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/dataAbstraction/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/genreic/InheritanceWIthGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/genreic/ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/genreic/start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/genreic/whyGEn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/human/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/human/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/test/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/test/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/vehicles/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/vehicles/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/vehicles/Vehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/InvoiceDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/InvoiceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/Marker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/Print.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nviJ1iOkAYZs1yTGLcOgBIuvFy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Application.a.executor": "Run",
+    "Application.b.executor": "Run",
+    "Application.dataAbstraction.executor": "Run",
+    "Application.human.executor": "Run",
+    "Application.javaDsa.executor": "Run",
+    "Application.lL.executor": "Run",
+    "Application.linearSearch.executor": "Run",
+    "Application.linkedList.executor": "Run",
+    "Application.vehicles.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/hirasaifali/IdeaProjects/learningJava/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.javaDsa">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.arrays.linearSearch.Search" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.pattern.a" />
+      <module name="learningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaDsa.java.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataAbstraction" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.javaLearning.coreJava.dataAbstraction.Test1" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="human" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.javaLearning.coreJava.human.Main" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaDsa" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.linkedList.Demo" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lL" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.linkedList.Demo" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linearSearch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.arrays.linearSearch.SecondSmallerAndSecondLargest" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linkedList" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.linkedList.Demo" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.lL" />
+      <item itemvalue="Application.linkedList" />
+      <item itemvalue="Application.javaDsa" />
+      <item itemvalue="Application.dataAbstraction" />
+      <item itemvalue="Application.linearSearch" />
+      <item itemvalue="Application.human" />
+      <item itemvalue="Application.vehicles" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.a" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2337688-121c-41bb-b36e-ea17a027e644" name="Changes" comment="" />
+      <created>1729859875045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729859875045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
