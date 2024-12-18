@@ -5,50 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2337688-121c-41bb-b36e-ea17a027e644" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/vehicles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learningJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/linearSearch/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/linearSearch/SecondSmallerAndSecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/linearSearch/SumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/twoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/linkedList/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/linkedList/LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/linkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/pattern/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/pattern/b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/animals/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/dataAbstraction/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/dataAbstraction/InterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/dataAbstraction/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/dataAbstraction/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/genreic/InheritanceWIthGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/genreic/ObjectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/genreic/start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/genreic/whyGEn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/human/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/human/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/test/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/test/car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/vehicles/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/vehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/vehicles/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaLearning/coreJava/vehicles/Vehical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/InvoiceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/InvoiceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/Marker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/systemDesign/solidPrinciple/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/HashMapDebug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/list/ArrayListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collections/list/StringListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/BinarySearch/OccurrenceNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaDsa/java/arrays/linearSearch/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayListClass.executor": "Run",
+    "Application.OccurranceNo.executor": "Debug",
+    "Application.RotateArray.executor": "Run",
+    "Application.StringListClass.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Unnamed (1).executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.a.executor": "Run",
     "Application.b.executor": "Run",
@@ -99,7 +66,42 @@
     "onboarding.tips.debug.path": "/Users/hirasaifali/IdeaProjects/learningJava/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.javaDsa">
+  <component name="RunManager" selected="Application.ArrayListClass">
+    <configuration name="ArrayListClass" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.collections.list.ArrayListClass" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OccurranceNo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.collections.HashMapDebug" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.arrays.linearSearch.RotateArray" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringListClass" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.collections.list.StringListClass" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collections.HashMapDebug" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.arrays.linearSearch.Search" />
       <module name="learningJava" />
@@ -135,7 +137,7 @@
       </method>
     </configuration>
     <configuration name="javaDsa" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.linkedList.Demo" />
+      <option name="MAIN_CLASS_NAME" value="com.javaDsa.java.arrays.linearSearch.RotateArray" />
       <module name="learningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,14 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.lL" />
-      <item itemvalue="Application.linkedList" />
+      <item itemvalue="Application.StringListClass" />
+      <item itemvalue="Application.ArrayListClass" />
+      <item itemvalue="Application.Unnamed (1)" />
+      <item itemvalue="Application.OccurranceNo" />
       <item itemvalue="Application.javaDsa" />
-      <item itemvalue="Application.dataAbstraction" />
-      <item itemvalue="Application.linearSearch" />
-      <item itemvalue="Application.human" />
-      <item itemvalue="Application.vehicles" />
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.dataAbstraction" />
+      <item itemvalue="Application.human" />
+      <item itemvalue="Application.RotateArray" />
+      <item itemvalue="Application.lL" />
+      <item itemvalue="Application.linearSearch" />
+      <item itemvalue="Application.linkedList" />
+      <item itemvalue="Application.vehicles" />
       <item itemvalue="Application.a" />
     </list>
     <recent_temporary>
@@ -208,6 +215,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/collections/HashMapDebug.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
